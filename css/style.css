@@ -483,12 +483,8 @@ body {
 }
 
 .footer-icon-item {
-    display: flex;
-    justify-content: center;
     width: 40px;
     height: 40px;
-    border-radius: 50%;
-    background-color: #4D5AE5;
     padding: 12px;
 }
 
