@@ -324,6 +324,14 @@ body {
     border-radius: 50%;
 }
 
+.icon-link:hover {
+    background-color: #404bbf;
+}
+
+.icon-link:focus {
+    background-color: #404bbf;
+}
+
 .icon-icon {
     fill: #F4F4FD;
 }
