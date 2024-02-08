@@ -428,6 +428,10 @@ body {
     align-items: baseline;
 }
 
+.container-logo {
+    margin-right: 120px;
+}
+
 .footer-logo {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
