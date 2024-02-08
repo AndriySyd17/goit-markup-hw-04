@@ -423,6 +423,11 @@ body {
     padding: 100px 0;
 }
 
+.footer-container {
+    display: flex; 
+    align-items: baseline;
+}
+
 .footer-logo {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
@@ -456,7 +461,7 @@ body {
 }
 
 .footer-icon {
-    margin-right: 120px
+    margin-right: 120px;
 }
 
 .footer-text-icon {
