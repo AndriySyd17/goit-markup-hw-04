@@ -456,8 +456,7 @@ body {
 }
 
 .footer-icon {
-    display: flex;
-    align-items: baseline;
+    margin-right: 120px
 }
 
 .footer-text-icon {
